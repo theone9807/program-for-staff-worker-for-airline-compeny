@@ -1,6 +1,3 @@
-# program-for-staff-worker-for-airline-compeny
-See code
-
 # Your program will be used by the staff who work for an airline company, e.g. Qantas Airways.
 The airline has a range of flights between various cities each day. Customers can book to fly on a
 flight, and if circumstances change they can cancel their booking at a later time, but not when it is
